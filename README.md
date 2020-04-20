@@ -10,17 +10,25 @@ It is highly recommended to start with a vanilla OpenCore and following [OpenCor
 
 ## Ryzen Mac Pro
 
-**Prozessor:** AMD Ryzen 9 3950X  
+**Prozessor:** AMD Ryzen 9 3950X
+
 **Mainboard:** ASRock X570 Taichi
+
 **Memory:** Corsair Dominator RGB Pro (2x16GB) DDR4-3600
+
 **SSD:** SS 980 EVO Plus 500GB + HP EX920 500GB
+
 **VGA:** Sapphire Radeon Nitro+ RX 5700 XT SE
-**Power Supply:** Corsair RX850 Gold
+
+**PSU:** Corsair RX850
+
 **Cooler**: NZXT AIO Z63 Liquid Cooler
+
 **Case:** NZXT H510i Elite
 
 ## Versions
 **OpenCore:** 0.5.7
+
 **MacOS:** 10.15.3
 
 
