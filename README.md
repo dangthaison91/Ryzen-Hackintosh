@@ -14,7 +14,7 @@ It is highly recommended to start with a vanilla OpenCore and following [OpenCor
 **Mainboard:** ASRock X570 Taichi 
 **Memory:** Corsair Dominator RGB Pro (2x16GB) DDR4-3600  
 **SSD:** SS 980 EVO Plus 500GB + HP EX920 500GB  
-**Video Card:** Sapphire Radeon Nitro+ RX 5700 XT SE 
+**VGA:** Sapphire Radeon Nitro+ RX 5700 XT SE 
 **Power Supply:** Corsair RX850 Gold  
 **Cooler*: NZXT AIO Z63 Liquid Cooler
 **Case:** NZXT H510i Elite
